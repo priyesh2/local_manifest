@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/samsung/a70q" name="Haky86/android_device_samsung_a70q.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/sm6150-common" name="Haky86/android_device_samsung_sm6150-common.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/samsung/a70q" name="a70q-dev/android_kernel_samsung_sm6150.git" remote="github" revision="lineage-18.1" />
+ <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-18.1"/>
+ <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-18.1"/>
+ <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1"/>
+ 
+</manifest>
